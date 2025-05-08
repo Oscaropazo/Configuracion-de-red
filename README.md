@@ -36,6 +36,8 @@ En las dos máquinas:
 
 - Máquina B: `192.168.100.3`
 
+![Captura](./Imagenes/Captura6.2.png)
+
 ---
 
 ## 3. Comprobación de la conectividad
