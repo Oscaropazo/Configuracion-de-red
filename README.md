@@ -13,6 +13,7 @@
   - Máquina B: `ubuntu-B`
 
   ![Captura](./Imagenes/Captura3.png)
+  ![Captura](./Imagenes/Captura2.png)
   
 
 ### Configuración del segundo adaptador:
