@@ -8,7 +8,8 @@
     
   ![Captura](./Imagenes/Captura1.png)
 
-      ![Captura](./Imagenes/Captura2.png)
+  ![Captura](./Imagenes/Captura2.png)
+      
   - Máquina B: `ubuntu-B`
 
   ![Captura](./Imagenes/Captura3.png)
