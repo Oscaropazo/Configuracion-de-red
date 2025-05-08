@@ -5,6 +5,7 @@
 
 ### Clonación de las maquinas:
   - Máquina A: `ubuntu-A`
+    
   ![Captura](./Imagenes/Captura1.png)
 
       ![Captura](./Imagenes/Captura2.png)
