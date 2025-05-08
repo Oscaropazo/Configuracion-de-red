@@ -32,7 +32,7 @@ En las dos máquinas:
 ### Asignación de IP:
 - Red: `192.168.100.0/24`
 - Máquina A: `192.168.100.2`
-
+![Captura](./Imagenes/Captura6.1.png)
 
 - Máquina B: `192.168.100.3`
 
